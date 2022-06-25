@@ -1,2 +1,2 @@
 # typescript-clean-arch
-Clean Architecture with TypeScript and NodeJS
+Clean Architecture with TypeScript, NodeJS and Jest
